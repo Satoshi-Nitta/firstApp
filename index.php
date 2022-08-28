@@ -1,5 +1,5 @@
 <?php
 
-echo "Thanks!!" ;
+echo "Another Own!!" ;
 
 ?>
