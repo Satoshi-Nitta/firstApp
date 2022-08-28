@@ -1,5 +1,5 @@
 <?php
 
-echo "Another Own!!" ;
+echo "Another One!!" ;
 
 ?>
